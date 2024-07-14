@@ -3,4 +3,4 @@ members = ["exercises/*/*", "helpers/common", "helpers/mdbook-exercise-linker", 
 resolver = "2"
 
 [profile.dev]
-overflow-checks = true
+overflow-checks = false
